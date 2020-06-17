@@ -1,6 +1,3 @@
-
-#features/test.feature
-
 Feature: Google search
 
 Scenario: Search for webdriver        
