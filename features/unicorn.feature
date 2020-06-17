@@ -1,5 +1,6 @@
 Feature: Unicorn
-  Scenario: Unicorn Attributes
+
+Scenario: Unicorn Attributes
     Given I have a Unicorn whose name is "<name>"
     When I ask a unicorn its name
     Then it responds with "<answer>"
