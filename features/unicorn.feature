@@ -9,3 +9,5 @@ Examples:
     |name       | answer |
     |Peter      | My name is Peter |
     |Aurora     | My name is Aurora|
+    |Foster     | My name is Foster|
+
