@@ -9,7 +9,7 @@ Examples:
     |name       | answer |
     |Peter      | My name is Peter |
     |Aurora     | My name is Aurora|
-    |Foster     | My name is Blake|
+    |Blake      | My name is Blake|
     |Barrett    | My name is Barrett|
 
 
